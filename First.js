@@ -1,0 +1,10 @@
+let num='Can i do it';
+console.log(num);
+console.log("Hello");
+console.log(Number.MAX_VALUE);
+console.log(Number.MIN_VALUE);
+let just=`hello here we come welcome "Avinandan"`;
+console.log(just);
+let check=10>9;
+console.log(check);
+console.log(typeof check);
