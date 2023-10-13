@@ -1,0 +1,11 @@
+//Immediate Invoked functions Expressions(IIFE)
+
+//()() :: First we use () this to define the fn and second () we use to call the functions.
+(function play (){
+    console.log("playinng");
+})();//It is immediate fn so we have to end with ; in this fn
+
+((str)=>{
+    console.log(this);
+    console.log(`Here come ${this.name}`);
+})('Avinandan');
