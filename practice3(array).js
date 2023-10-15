@@ -6,5 +6,5 @@ const newLoc=westBengal.concat(Mumbai);//This method concating the two values of
                                         //and always return a merged array and that should be store in the array
 console.log(newLoc);
 //console.log(newLoc.shift());
-newLoc.shift()
+newLoc.shift()//This will print a value o the left side hand will shifted
 console.log(newLoc);

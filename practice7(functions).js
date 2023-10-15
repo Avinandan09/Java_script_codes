@@ -11,3 +11,11 @@ console.log(val2(20,30));
 //arrow functions that used => () return the value but not using the explicit return() method
 const user= ( )=>({userame: "Avinandan"})//***If we want to return any object in the () braces we have also define {} this brackets also */
 console.log(user());
+// const value=function (){
+//     console.log(2+3);
+// }
+// value()
+// const value2=()=>{
+//     console.log(5+5);
+// }
+// value2()
